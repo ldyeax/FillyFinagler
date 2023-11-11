@@ -1,0 +1,107 @@
+﻿{
+  "StartingArea": [
+    "1"
+  ],
+  "Sewers1": [
+    "1"
+  ],
+  "Sewers4": [
+    "1"
+  ],
+  "Sewers2": [
+    "1"
+  ],
+  "SlipperyTutorial": [
+    "1"
+  ],
+  "SlipperyTunnels": [
+    "1"
+  ],
+  "Sewers3": [
+    "1",
+    "goony"
+  ],
+  "MinesIntro": [
+    "goony"
+  ],
+  "Waterfall": [
+    "1"
+  ],
+  "SlipAndSlide": [
+    "1"
+  ],
+  "FuckingWorms": [
+    "1"
+  ],
+  "GiantEnemyCrab": [
+    "1"
+  ],
+  "WaterEscape": [
+    "1"
+  ],
+  "MinesProper": [
+    "1",
+    "goony"
+  ],
+  "MinesEnemyRush": [
+    "1"
+  ],
+  "CollapsedMine": [
+    "1"
+  ],
+  "TheCity": [
+    "1"
+  ],
+  "ForestIntro2": [
+    "1"
+  ],
+  "Birbs": [
+    "1"
+  ],
+  "ForestSmolWolves": [
+    "1"
+  ],
+  "WolfIntroduction": [
+    "1"
+  ],
+  "ForestBridge": [
+    "1"
+  ],
+  "Hoppiecaves": [
+    "1"
+  ],
+  "ForestCastleBridge": [
+    "1"
+  ],
+  "ForestBoss": [
+    "1"
+  ],
+  "FallIntoAPit": [
+    "1"
+  ],
+  "BitchAssPlant": [
+    "1"
+  ],
+  "Timber": [
+    "1"
+  ],
+  "VerticalClimb": [
+    "1"
+  ],
+  "RainingInTheGaps": [
+    "1"
+  ],
+  "TowerFromForest": [
+    "1"
+  ],
+  "Tower2": [
+    "1"
+  ],
+  "LighthouseClimb": [
+    "1",
+    "goony"
+  ],
+  "ShittyCredits": [
+    "1"
+  ]
+}
